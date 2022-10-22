@@ -1,4 +1,10 @@
+package test;
 
+import modelo.CalculadorDeImposto;
+import modelo.ContaCorrente;
+import modelo.SeguroDeVida;
+
+//classe Teste
 public class TesteTributaveis {
 
 	public static void main(String[] args) {
